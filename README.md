@@ -18,6 +18,8 @@ To power the application, I built a custom backend using JavaScript (Node.js) wi
 ![Screenshot (900)](https://github.com/user-attachments/assets/ddf24799-6000-45a2-9dac-4dc104c4b48a)
 ![Screenshot (899)](https://github.com/user-attachments/assets/9522b416-3937-4ef7-bb61-e81ba0b88028)
 ![Screenshot (897)](https://github.com/user-attachments/assets/b219a001-8971-4e14-93cd-703cbfcf9456)
+![Screenshot (903)](https://github.com/user-attachments/assets/0cacb4e8-dd4a-4c41-8f28-114c0afc0c72)
+![Screenshot (902)](https://github.com/user-attachments/assets/b3f9a17a-7c0a-4b32-ad5d-9b9902845da1)
 ![Screenshot (901)](https://github.com/user-attachments/assets/b4239fc3-8d47-4029-ab7c-5d3ae729ca93)
 
 
