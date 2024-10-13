@@ -27,8 +27,30 @@ User Authentication: Users can create accounts, log in, and reset their password
 Product Management: I fetched all products from the Fake Store API and populated them in my own database. This allowed me to have full control over the data, including functionalities such as adding items to the cart and checking them out.
 Notifications: I implemented a notification system where users receive alerts whenever they add products to the cart and other relevant actions.
 Search History: Users’ recent searches are automatically recorded, providing a convenient way to view past searches and refine future searches.
+
 Challenges
 I was given 4 days to complete the project, which posed a few challenges:
+![Screenshot_20241013-220911](https://github.com/user-attachments/assets/74058f44-d90a-4f2b-aaf2-c28187662d78)
+![Screenshot_20241013-220849](https://github.com/user-attachments/assets/39ec7c5f-2a8c-44af-aec9-20789bb81118)
+![Screenshot_20241013-210718](https://github.com/user-attachments/assets/981cedc1-54b5-4942-ad66-281173594687)
+![Screenshot_20241013-210707](https://github.com/user-attachments/assets/29c7e0c7-8dab-4706-8bbb-2ff731cf5e01)
+![Screenshot_20241013-210640](https://github.com/user-attachments/assets/e26bff27-191a-4f85-93e4-76cceed825be)
+![Screenshot_20241013-014601](https://github.com/user-attachments/assets/f2ff7ebd-b753-41c5-a7cf-bf162f7b38d1)
+![Screenshot_20241012-233843](https://github.com/user-attachments/assets/99bae8ec-3223-4631-943c-e9e6bbb65ac3)
+![Screenshot_20241013-223806](https://github.com/user-attachments/assets/71888d0b-04a3-498b-be20-4f056550d807)
+![Screenshot_20241013-223231](https://github.com/user-attachments/assets/ff679f45-982a-4f6d-b0fc-855f7831b902)
+![Screenshot_20241013-223206](https://github.com/user-attachments/assets/5badd1dc-6952-4d89-aa8b-18116d7bef11)
+![Screenshot_20241013-221425](https://github.com/user-attachments/assets/77b98dc4-c2c8-4a74-826a-9834fc4ee382)
+![Screenshot_20241013-221410](https://github.com/user-attachments/assets/28209cfd-3ce7-496f-a837-061354abeffd)
+![Screenshot_20241013-221400](https://github.com/user-attachments/assets/81fdfb2f-8a6c-41f8-b988-a674e91facee)
+![Screenshot_20241013-221334](https://github.com/user-attachments/assets/4d2e6de5-68c0-4349-b706-4bb508d5dcc2)
+![Screenshot_20241013-221325](https://github.com/user-attachments/assets/3be7b69e-e83b-4844-98ba-80a42a0f0807)
+![Screenshot_20241013-221318](https://github.com/user-attachments/assets/5351b7c7-1042-49b3-a8fe-2b792f2440e3)
+![Screenshot_20241013-221306](https://github.com/user-attachments/assets/72b0aa9b-4eef-42ec-8a69-59e015c5b035)
+![Screenshot_20241013-221300](https://github.com/user-attachments/assets/6311aa89-9db7-4dd6-959d-e54954b1f1cd)
+![Screenshot_20241013-221255](https://github.com/user-attachments/assets/8e8a4c12-135f-458b-a039-a27360ae2152)
+![Screenshot_20241013-221221](https://github.com/user-attachments/assets/6df0cf42-4419-4af8-8a6f-f9bb2ecf5469)
+![Screenshot_20241013-221033](https://github.com/user-attachments/assets/96748fc2-e863-4f97-a82d-b76c0ab9c794)
 
 Backend Development: Creating my own custom backend to power the app took up a significant portion of the time.
 Additional Features: Implementing additional features such as notifications and password reset functionality also required time investment.
