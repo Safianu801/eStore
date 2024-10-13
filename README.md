@@ -15,6 +15,11 @@ API Used: Fake Store API
 
 What I Did
 To power the application, I built a custom backend using JavaScript (Node.js) with the following capabilities:
+![Screenshot (900)](https://github.com/user-attachments/assets/ddf24799-6000-45a2-9dac-4dc104c4b48a)
+![Screenshot (899)](https://github.com/user-attachments/assets/9522b416-3937-4ef7-bb61-e81ba0b88028)
+![Screenshot (897)](https://github.com/user-attachments/assets/b219a001-8971-4e14-93cd-703cbfcf9456)
+![Screenshot (901)](https://github.com/user-attachments/assets/b4239fc3-8d47-4029-ab7c-5d3ae729ca93)
+
 
 User Authentication: Users can create accounts, log in, and reset their passwords.
 Product Management: I fetched all products from the Fake Store API and populated them in my own database. This allowed me to have full control over the data, including functionalities such as adding items to the cart and checking them out.
