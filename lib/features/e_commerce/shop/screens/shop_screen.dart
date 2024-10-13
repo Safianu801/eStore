@@ -148,15 +148,20 @@ class _ShopScreenState extends State<ShopScreen> {
         child: Column(
           children: [
             Container(
-              height: 40,
+              height: 38,
               width: MediaQuery.of(context).size.width,
               decoration: BoxDecoration(
-                color: const Color(AppColors.primaryColor).withOpacity(0.1),
+                color: const Color(AppColors.primaryColor).withOpacity(0.8),
               ),
               child: const Padding(
                 padding: EdgeInsets.all(8.0),
                 child: Text(
-                  "Welcome to eStore, were you can get it all with just few clicks"
+                  "Welcome to eStore, were you can get it all with just few clicks",
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 11,
+                    fontWeight: FontWeight.w500
+                  ),
                 ),
               ),
             ),

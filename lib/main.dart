@@ -1,3 +1,5 @@
+import 'package:e_store/features/auth/forgot_password/screens/forgot_password_success_screen.dart';
+import 'package:e_store/features/auth/sign_up/screens/registration_success_screen.dart';
 import 'package:e_store/features/welcome/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

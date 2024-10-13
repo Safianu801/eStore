@@ -2,6 +2,7 @@ import 'package:e_store/features/e_commerce/cart/model/cart_model.dart';
 import 'package:e_store/utilities/constant/app_colors.dart';
 import 'package:e_store/utilities/shared_components/custom_back_button.dart';
 import 'package:e_store/utilities/shared_components/custom_button.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
@@ -97,7 +98,7 @@ class _CartScreenState extends State<CartScreen> {
                 future: _cartItemsFuture,
                 builder: (context, snapshot) {
                   if (snapshot.connectionState == ConnectionState.waiting) {
-                    return const Center(child: CircularProgressIndicator());
+                    return const Center(child: CupertinoActivityIndicator());
                   } else if (snapshot.hasError) {
                     return Center(
                       child: Text("${snapshot.error}"),

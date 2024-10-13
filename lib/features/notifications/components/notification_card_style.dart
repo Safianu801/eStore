@@ -10,7 +10,7 @@ class NotificationCardStyle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 10.0),
+      padding: const EdgeInsets.symmetric(horizontal: 10.0, vertical: 2),
       child: Container(
         height: 90,
         width: MediaQuery.of(context).size.width,
