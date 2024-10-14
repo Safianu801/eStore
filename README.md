@@ -48,7 +48,7 @@ Screenshots
 <img src="https://github.com/user-attachments/assets/6df0cf42-4419-4af8-8a6f-f9bb2ecf5469" alt="Screenshot 26" width="300px"> 
 <img src="https://github.com/user-attachments/assets/96748fc2-e863-4f97-a82d-b76c0ab9c794" alt="Screenshot 27" width="300px">
 Challenges
-I was given 4 days to complete the project, which posed a few challenges:
+I was given 2-4 days to complete the project, which posed a few challenges:
 
 Backend Development: Creating my own custom backend to power the app took up a significant portion of the time.
 Additional Features: Implementing additional features such as notifications and password reset functionality also required time investment.
