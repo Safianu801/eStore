@@ -54,6 +54,6 @@ I was given 2-4 days to complete the project, which posed a few challenges:
 Backend Development: Creating my own custom backend to power the app took up a significant portion of the time.
 Additional Features: Implementing additional features such as notifications and password reset functionality also required time investment.
 While these challenges impacted my timeline, I aimed to deliver a comprehensive and functional application within the given constraints.
-
+[app-release.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp-release.apk)
 Conclusion
 Despite the limited time, I was able to build a fully functional e-commerce application with several advanced features. This project demonstrates my expertise in Flutter and Node.js, as well as my ability to manage complex integrations within tight deadlines.
