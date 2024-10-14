@@ -19,6 +19,7 @@ User Authentication: Users can create accounts, log in, and reset their password
 Product Management: I fetched all products from the Fake Store API and populated them in my own database. This allowed me to have full control over the data, including functionalities such as adding items to the cart and checking them out.
 Notifications: I implemented a notification system where users receive alerts whenever they add products to the cart and other relevant actions.
 Search History: Users’ recent searches are automatically recorded, providing a convenient way to view past searches and refine future searches.
+here is the link to the backend repo https://github.com/Safianu801/estore_backend.git
 Screenshots
 <img src="https://github.com/user-attachments/assets/ddf24799-6000-45a2-9dac-4dc104c4b48a" alt="Screenshot 1" width="300px">
 <img src="https://github.com/user-attachments/assets/9522b416-3937-4ef7-bb61-e81ba0b88028" alt="Screenshot 2" width="300px"> 
